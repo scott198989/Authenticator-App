@@ -1,40 +1,63 @@
-# Authenticator App
 
-# Introduction:
 
-I am currently taking classes on Udemy to expand my knowledge on backend frameworks like Ruby on Rails.  This is my first project of the class, and it uses logic including arrays, conditional statesments, key value pairs, methods, and more.  All usernames and passwords are in order.
+![Authenticator App Screenshot](https://github.com/scott198989/Authenticator-App/blob/main/Authenticator-Screenshot.png)
 
-# Features
+# Authenticator App 🔐
 
-A simple authenticator application written in Ruby.  This is for practice purposes only, and commands need to be ran in the command terminal.
+## Table of Contents
 
-# Dependencies / Ruby Version
+- [Introduction](#introduction)
+- [Features](#features)
+- [Dependencies](#dependencies)
+- [How to Use](#how-to-use)
+- [Contact](#contact)
 
-Ruby 2.7.4
+## Introduction 🌐
 
-If using homebrew and bundler:
+Expanding my tech toolkit with Ruby and backend frameworks like Ruby on Rails. This is my first project in the Udemy course, designed to get my feet wet with Ruby's programming paradigms like arrays, conditional statements, key-value pairs, and methods.
 
-* brew update
-* brew install ruby
+---
 
-# Usernames
+## Features 🌟
 
-* scott
-* hulk
-* ironman
-* thor
-* cptamerica
+- **Terminal-based**: All commands are run directly in your terminal.
+- **User Authentication**: Comes with predefined usernames and passwords for testing.
+- **Ruby Logic**: Exercises core Ruby logic including conditional statements and array manipulations.
 
-# Passwords
+---
 
-* pass1
-* smash
-* iamironman
-* odonson
-* nottoday
+## Dependencies 🛠
 
-# Contact
+- Ruby version 2.7.4
 
-Thank you for checking out my first major class project! If you would like to connect on linkedin you can do so by clicking my linkedin on my GitHub profile page, or if you would like to drop me a line, or check out some of the other projects I have done, you can do so by visiting my portfolio site at https://www.scott-tuschl.com
+```bash
+# If you don't have Ruby installed, do this first
+brew update
+brew install ruby
+```
 
-Thank you!
+---
+
+## How to Use 🤔
+
+**Usernames**
+- scott
+- hulk
+- ironman
+- thor
+- cptamerica
+
+**Passwords**
+- pass1
+- smash
+- iamironman
+- odonson
+- nottoday
+
+Run the app by navigating to the project directory and firing it up in your terminal.
+
+---
+
+## Contact 💌
+
+Thanks for stopping by! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/scott-tuschl) or check out my [portfolio](https://www.scott-tuschl.com) for more of my projects.
